@@ -1,5 +1,5 @@
 /*
-	ispisati trokut od "#" znakova
+	ispisati trokut od "#" znakova koji ce ciniti trokut
 */
 
 let trokut = "";
